@@ -1,7 +1,7 @@
 baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: charlola.mode
+title: jarossnd.mode
 paginate: 5
-theme: charlolamode
+theme: jarossndmode
 
 
 
@@ -42,11 +42,11 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: Jason Ross
         description: |
 
-          Hello, I am Joe.
-           I am a software developer. 
+          Hello, I am Jason.
+           I am a web developer. 
         
 
           This is a minimalistic theme template for websites.
