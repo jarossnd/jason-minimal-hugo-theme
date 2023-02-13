@@ -1,4 +1,4 @@
-### charlola.mode
+### jarossnd.mode
 
 
 This website theme is based on the Hugo framework. It's quick and easy to use with minimal design and the most basic functions.
@@ -51,7 +51,7 @@ git init
 
 4. Clone this repository into your folder
 ```console
-git submodule add https://github.com/charlola/hugo-theme-charlolamode.git themes/charlolamode
+git submodule add https://github.com/jarossnd/jason-minimal-hugo-theme.git themes/jarossndmode
 ```
 
 5. Delete the config.toml
@@ -61,7 +61,7 @@ rm config.toml
 
 6. Add theme in a new config.yml file
 ```console
-echo "theme: charlolamode" >> config.yml
+echo "theme: jarossndmode" >> config.yml
 ```
 
 7. Start Hugo's development server to view the site locally.
