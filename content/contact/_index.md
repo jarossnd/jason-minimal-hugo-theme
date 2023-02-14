@@ -4,8 +4,8 @@ type: list
 ---
 
 
-#### LinkedIn
-If you have a short message or question, drop a message via [LinkedIn](https://www.linkedin.com/in/heycharlola/).
+#### Email
+I do best with email so please send me your message to jason (at) jasonross (dot) xyz.
 
 
 <!-- #### Email

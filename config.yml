@@ -27,7 +27,7 @@ menu:
 
 
 params:
-    author: Author's Name
+    author: Jason Ross
 
 
     defaultTheme: auto
@@ -49,9 +49,9 @@ params:
            I am a web developer. 
         
 
-          This is a minimalistic theme template for websites.
+          I'm glad you're here!
         imageUrl: "/images/profile.png"
-        imageTitle: my image
+        imageTitle: A picture of Jason Ross
         # imageWidth: 120
         # imageHeight: 120
         buttons:
@@ -61,12 +61,14 @@ params:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/jarossnd"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/jason-ross-msft"
+        - name: twitter
+          url: "https://twitter.com/jarossnd"
+        - name: buymeacoffee
+          url: "https://ko-fi.com/jaross"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
