@@ -9,13 +9,16 @@ menu:
     main:
         - name: Contact
           url: /contact/
-          weight: 30
+          weight: 35
         - name: Articles
           url: /articles/
-          weight: 20
+          weight: 30
         - name: Projects
           url: /projects/
-          weight: 15
+          weight: 20
+       # - name: Experience
+        #  url: /experience/
+        #  weight: 15
 
      # - name: Categories
         #   url: /categories/
@@ -33,7 +36,7 @@ params:
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
-    ShowReadingTime: true
+    ShowReadingTime: false
     displayFullLangName: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
